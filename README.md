@@ -4,7 +4,7 @@ A School project for practicing unit testing  with [Mocha](https://mochajs.org/)
 
 ## TEAM MEMBERS
 
--Harpreet kaur[https://github.com/1993831/TDD-practice/edit/main/README.md]
+-[Harpreet kaur](https://github.com/1993831/TDD-practice/edit/main/README.md)
 
 -Amandeep kaur.
 

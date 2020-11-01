@@ -89,6 +89,10 @@ describe ('mid',function(){
         let arr = [5,10,15];
         assert.equal(functions.mid(arr), 10);
       });
+      it('should return [4,5] when array is[3,4,5,6]',function(){
+         let arr = [3,4,5,6];
+         assert.deepEqual(functions.mid(arr), [4,5]);
+      });
 });
 
 describe('total',function(){

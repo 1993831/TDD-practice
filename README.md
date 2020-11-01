@@ -4,9 +4,9 @@ A School project for practicing unit testing  with [Mocha](https://mochajs.org/)
 
 ## TEAM MEMBERS
 
-`-Harpreet kaur[https://github.com/1993831/TDD-practice/edit/main/README.md`
+-Harpreet kaur[https://github.com/1993831/TDD-practice/edit/main/README.md
 
-`-Amandeep kaur.`
+-Amandeep kaur.
 
 ## Setup
 
@@ -20,10 +20,10 @@ A School project for practicing unit testing  with [Mocha](https://mochajs.org/)
 
 ## what we learned  while working on this project.
 
-* I learnt how to use chai assertion syntax for unit test.
+* we learnt how to use chai assertion syntax for unit test.
 
 * Command to run and test mocha code
 
 * javascript syntax
 
-* push the and commit the code
+* push  and commit the code
